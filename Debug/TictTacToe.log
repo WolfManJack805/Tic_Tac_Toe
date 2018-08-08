@@ -1,0 +1,12 @@
+﻿  view.cpp
+  score.cpp
+  player.cpp
+  humanplayer.cpp
+  controller.cpp
+  board.cpp
+  app.cpp
+  aiplayer.cpp
+  Generating Code...
+  LINK : C:\Users\David Magana III\Desktop\Magana_David_TicTacToeGameFinal\Week_10\Class\Week1\Debug\TictTacToe.exe not found or not built by the last incremental link; performing full link
+  TictTacToe.vcxproj -> C:\Users\David Magana III\Desktop\Magana_David_TicTacToeGameFinal\Week_10\Class\Week1\Debug\TictTacToe.exe
+  TictTacToe.vcxproj -> C:\Users\David Magana III\Desktop\Magana_David_TicTacToeGameFinal\Week_10\Class\Week1\Debug\TictTacToe.pdb (Partial PDB)
